@@ -1,0 +1,52 @@
+<svg viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12081f"/>
+      <stop offset="100%" stop-color="#2a1030"/>
+    </linearGradient>
+    <linearGradient id="figFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3a1f4d"/>
+      <stop offset="100%" stop-color="#160a1f"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="600" height="500" fill="url(#bg2)"/>
+
+  <!-- floating code particles -->
+  <g fill="#c96bb0" font-family="Fira Code, monospace" font-size="14" opacity="0.55">
+    <text x="40" y="60">&lt;/&gt;</text>
+    <text x="470" y="90">{ }</text>
+    <text x="60" y="420">01</text>
+    <text x="500" y="440">git</text>
+    <text x="40" y="240">&#8734;</text>
+    <text x="500" y="260">fn()</text>
+  </g>
+
+  <!-- silhouette figure at a desk / screen, abstract -->
+  <g>
+    <rect x="150" y="330" width="300" height="14" rx="4" fill="#4a2a5d"/>
+    <rect x="230" y="220" width="140" height="110" rx="6" fill="#1c0f28" stroke="#8b3d7a" stroke-width="2"/>
+    <rect x="240" y="230" width="120" height="90" rx="2" fill="#0d0714"/>
+    <g stroke="#a4478f" stroke-width="1.5" opacity="0.8">
+      <line x1="250" y1="245" x2="300" y2="245"/>
+      <line x1="250" y1="258" x2="330" y2="258"/>
+      <line x1="250" y1="271" x2="290" y2="271"/>
+      <line x1="250" y1="284" x2="320" y2="284"/>
+      <line x1="250" y1="297" x2="270" y2="297"/>
+    </g>
+
+    <!-- seated figure silhouette -->
+    <ellipse cx="300" cy="150" rx="34" ry="38" fill="url(#figFill)"/>
+    <path d="M255 330 C255 250 265 210 300 210 C335 210 345 250 345 330 Z" fill="url(#figFill)"/>
+    <path d="M255 260 C230 270 215 300 210 330" stroke="#3a1f4d" stroke-width="16" stroke-linecap="round" fill="none"/>
+    <path d="M345 260 C365 275 375 300 378 328" stroke="#3a1f4d" stroke-width="16" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <!-- glowing accent orb -->
+  <circle cx="470" cy="150" r="46" fill="#c96bb0" opacity="0.18"/>
+  <circle cx="470" cy="150" r="26" fill="#e8b4d8" opacity="0.5"/>
+
+  <!-- subtle rings -->
+  <circle cx="90" cy="150" r="60" fill="none" stroke="#8b3d7a" stroke-width="1" opacity="0.4"/>
+  <circle cx="90" cy="150" r="80" fill="none" stroke="#8b3d7a" stroke-width="1" opacity="0.25"/>
+</svg>
