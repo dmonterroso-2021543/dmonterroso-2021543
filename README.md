@@ -62,19 +62,19 @@ OPEN FOR  : Colab · Proyectos · Open Source
 
 **◆ Languages & dev tools ◆**
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,dotnet,java,spring,vscode" />
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,dotnet,java,spring" />
 
 <br><br>
 
 **◆ Databases ◆**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
 <br><br>
 
 **◆ Tools & environment ◆**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
 </div>
 
@@ -84,7 +84,6 @@ OPEN FOR  : Colab · Proyectos · Open Source
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dmonterroso-2021543&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=dmonterroso-2021543&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
